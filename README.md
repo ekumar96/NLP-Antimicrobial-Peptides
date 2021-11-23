@@ -4,11 +4,9 @@ I worked led my team to create several Natural Language Processing models to ide
 ## Problem Statement:
 Peptides are proteins comprised of a relatively short chain of amino acids. The drug discovery and wellness industry look at peptides as a potential solution for health optimization and disease management while being radically cost effective and with little to no known side-effects. This makes the process of discovering such amino acid chains a valuable endeavor. There are many studies that indicate that certain peptides have anti-cancer properties - these are known as APCs. The function of these peptides is determined by their amino acid sequence.
 
-Our Project will focus on using the Word2Vec algorithm to encode amino acid sequences of variable length into embeddings. This is an important step as these amino acid sequences have important positional and structural relationships which will be preserved and exploited in order to create embeddings.
+Our Project focused on using the Word2Vec algorithm to encode amino acid sequences of variable length into embeddings. This is an important step as these amino acid sequences have important positional and structural relationships which will be preserved and exploited in order to create embeddings.
 
-This is a supervised classification problem, where we need to categorize certain peptides as therapeutic or not.
-
-As a final step, we will attempt to present the task of successful discovery as a classification problem.
+This is a supervised classification problem, where categorized certain peptides as therapeutic or not. As a final step, we presented the task of successful discovery as a classification problem.
 
 ## Data description
 [Example data](http://split4.pmfst.hr/dadp/?a=list)
